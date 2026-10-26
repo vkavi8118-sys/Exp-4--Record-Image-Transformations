@@ -46,7 +46,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Step 1: Load the image
-image = cv2.imread('sv.jpeg')  # Load the image from file
+image = cv2.imread('ex1 image.jpeg')  # Load the image from file
 
 # Display the original image
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))  # Convert BGR to RGB for correct display
