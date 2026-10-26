@@ -1,6 +1,6 @@
 # Exp-4--Record-Image-Transformations
 ## NAME : KAVINAYA V
-## REGISTER NO ; 212225230133
+## REGISTER NO : 212225230133
 
 ## Aim
 
